@@ -7,5 +7,7 @@
  */
 $lang['imgshort']              = 'Şkl.';
 $lang['tabshort']              = 'Tbl.';
+$lang['codshort']              = 'List.';
 $lang['imgfull']               = 'şekil';
 $lang['tabfull']               = 'tablo';
+$lang['codfull']               = 'listing';
