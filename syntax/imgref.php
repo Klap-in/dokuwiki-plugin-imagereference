@@ -45,7 +45,7 @@ class syntax_plugin_imagereference_imgref extends DokuWiki_Syntax_Plugin {
     function connectTo($mode) {
         $this->Lexer->addSpecialPattern('<imgref.*?>', $mode, 'plugin_imagereference_imgref');
         $this->Lexer->addSpecialPattern('<tabref.*?>', $mode, 'plugin_imagereference_imgref');
-
+        $this->Lexer->addSpecialPattern('<coderef.*?>', $mode, 'plugin_imagereference_imgref');
     }
     /**
      * Handle matches of the imgref syntax

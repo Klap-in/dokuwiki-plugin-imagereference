@@ -5,7 +5,9 @@
  * 
  * @author Aleksandr Selivanov <alexgearbox@yandex.ru>
  */
-$lang['imgshort']              = 'Рис.';
-$lang['tabshort']              = 'Табл.';
-$lang['imgfull']               = 'рисунок';
-$lang['tabfull']               = 'таблица';
+$lang['imgshort'] = 'Рис.';
+$lang['tabshort'] = 'Табл.';
+$lang['codshort'] = 'List.';
+$lang['imgfull']  = 'рисунок';
+$lang['tabfull']  = 'таблица';
+$lang['codfull']  = 'listing';

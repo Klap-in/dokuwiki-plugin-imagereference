@@ -5,7 +5,9 @@
  * 
  * @author Marina Vladi <deldadam@gmail.com>
  */
-$lang['imgshort']              = 'Kép';
-$lang['tabshort']              = 'Táb.';
-$lang['imgfull']               = 'kép';
-$lang['tabfull']               = 'táblázat';
+$lang['imgshort'] = 'Kép';
+$lang['tabshort'] = 'Táb.';
+$lang['codshort'] = 'List.';
+$lang['imgfull']  = 'kép';
+$lang['tabfull']  = 'táblázat';
+$lang['codfull']  = 'listing';

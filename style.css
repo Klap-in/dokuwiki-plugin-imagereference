@@ -6,7 +6,7 @@
  */
 
 /* table caption */
-div.tabcaption {
+div.tabcaption, div.codecaption {
     border: 1px solid #ccc;
     padding: 3px !important;
     background-color: #f9f9f9;
@@ -16,15 +16,15 @@ div.tabcaption {
     /*display: inline-block;*/
 }
 /*
-div.tabcaption.left {
+div.tabcaption.left, div.codecaption.left {
     margin: 1px;
     float: left;
 }
-div.tabcaption.right {
+div.tabcaption.right, div.codecaption.right {
     margin: 1px;
     float: right;
 }
-div.tabcaptionbox.center {
+div.tabcaptionbox.center, div.codecaption.center {
     text-align: center;
 }
 */
